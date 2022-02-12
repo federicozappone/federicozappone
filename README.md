@@ -15,4 +15,4 @@ Even though I'm very far from being an expert (or even remotely fluent for that 
 I'm very curious about all things in life, science, and numbers.
 
 
-[Email](mailto:federicozappone@gmail.com") / [CV](federicozappone_cv.pdf) / [Github](https://github.com/federicozappone/)
+[Email](mailto:federicozappone@gmail.com") / [CV](federicozappone_cv.pdf)
