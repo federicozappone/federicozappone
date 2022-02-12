@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there, I'm [Federico Zappone](https://federicozappone.github.io)<br>
 
-<!--
-**federicozappone/federicozappone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer vision and machine learning engineer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interests are in the aerospace field (mainly lifted and controlled atmospheric entry, autonomous descent and landing, hypersonic parachute design and simulation) and planetary robotics which is what got me interested in computer vision during high school (especially stereo vision and reconstruction).
+
+
+I consider myself quite capable in the development of autonomous vision based wheeled or aerial robotics systems working in unknown environments.
+
+
+Even though I'm very far from being an expert (or even remotely fluent for that matter) I enjoy high energy physics and I'm trying to study as much of it as I can in the little free time I have. 
+
+
+I'm very curious about all things in life, science, and numbers.
