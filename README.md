@@ -3,13 +3,13 @@
 I am a computer vision and machine learning engineer.
 
 
-My main interests are in the aerospace field (mainly lifted and controlled atmospheric entry, autonomous descent and landing, hypersonic parachute design and simulation) and planetary robotics which is what got me interested in computer vision during high school (especially stereo vision and reconstruction).
+My main interests are in the aerospace field (mainly lifted and controlled atmospheric entry, autonomous descent and landing) and planetary robotics which is what got me interested in computer vision during high school (especially stereo vision and reconstruction).
 
 
-I consider myself quite capable in the development of autonomous vision based wheeled or aerial robotics systems working in unknown environments.
+In those two areas I consider myself quite capable in solving and optimizing simple to moderately complex entry profiles and in the development of autonomous vision based wheeled or aerial robotics systems working in unknown environments.\
+I'm right now very interested in applying novel machine learning technologies, such as deep learning an deep reinforcement learning, to problems in both those disciplines.
 
-
-Even though I'm very far from being an expert (or even remotely fluent for that matter) I enjoy high energy physics and I'm trying to study as much of it as I can in the little free time I have. 
+Even though I'm very far from being an expert (or even remotely fluent for that matter) in the little free time at my disposal I find interest in high energy physics and I'm trying to study as much of it as I can.
 
 
 I'm very curious about all things in life, science, and numbers.
