@@ -12,5 +12,11 @@ Today I'm very interested in applying novel machine learning technologies, such 
 
 Even though I'm very far from being an expert (or even remotely fluent for that matter) in the little free time at my disposal I find interest in high energy physics and I'm trying to study as much of it as I can.
 
+Used to speedrun games with some of the best times in the world:\
+
+World of Warcraft Vanilla 1-60: 5 days 2 hours /played\
+World of Warcraft Classic 1'60: 4 days 6 hours /played\
+Half Life 2: 2 hours 48 minutes (old engine)\
+The Elder Scrolls III: Morrowind: 6 minutes 18 seconds
 
 I'm very curious about all things in life, science, and numbers.
