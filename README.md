@@ -15,7 +15,7 @@ Even though I'm very far from being an expert (or even remotely fluent for that 
 Used to speedrun games with some of the best times in the world:
 
 World of Warcraft Vanilla 1-60: 5 days 2 hours /played\
-World of Warcraft Classic 1-60: 4 days 6 hours /played\
+World of Warcraft Classic 1-60: 4 days 6 hours /played (on launch)\
 Half Life 2: 2 hours 48 minutes (old engine)\
 The Elder Scrolls III: Morrowind: 6 minutes 18 seconds
 
