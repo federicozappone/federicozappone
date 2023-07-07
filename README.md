@@ -1,6 +1,6 @@
 ### Hello there, I'm [Federico Zappone](https://federicozappone.github.io)<br>
 
-I am a computer vision and machine learning engineer.
+I am a computer vision, robotics and machine learning engineer.
 
 
 My main interests are in the aerospace field (mainly atmospheric entry, autonomous descent and landing, and simulation) and planetary robotics which is what got me interested in computer vision during high school (especially stereo vision and reconstruction).
